@@ -30,7 +30,7 @@ const Team: React.FC = () => {
           <div key={member.name} className="bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="relative h-64">
               <img
-                src={member.image}
+                src={process.env.PUBLIC_URL + member.image}
                 alt={member.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {
