@@ -24,7 +24,7 @@ const Home: React.FC = () => {
           >
             <div className="relative h-48">
               <img
-                src={event.image}
+                src={process.env.PUBLIC_URL + event.image}
                 alt={event.title}
                 className="w-full h-full object-cover"
                 onError={(e) => {
