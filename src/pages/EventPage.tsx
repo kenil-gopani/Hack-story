@@ -28,7 +28,7 @@ const EventPage: React.FC = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-fixed"
           style={{
-            backgroundImage: `url(${event.image})`,
+            backgroundImage: `url(${process.env.PUBLIC_URL + event.image})`,
             transform: 'scale(1.1)',
           }}
         >
