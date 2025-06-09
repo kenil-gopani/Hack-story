@@ -210,4 +210,4 @@ const QuizCenter: React.FC = () => {
   );
 };
 
-export default QuizCenter; 
+export default QuizCenter;
