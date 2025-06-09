@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap');
+
+body {
+  @apply bg-dark-bg text-white font-mono;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.hacker-text {
+  @apply text-hacker-green;
+}
+
+.hacker-link {
+  @apply text-hacker-blue hover:text-hacker-green transition-colors duration-300;
+}
+
+.card {
+  @apply bg-dark-bg border border-hacker-green p-4 rounded-lg hover:shadow-lg hover:shadow-hacker-green/20 transition-all duration-300;
+}

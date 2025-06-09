@@ -1,0 +1,364 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Berlin Wall Falls",
+      "hackName": "The Great Wall Hack",
+      "year": 1989,
+      "category": "Political",
+      "region": "Europe",
+      "team": "The People's Liberation Front",
+      "description": "In a stunning display of people power, citizens of East and West Germany collaborated to bring down the Berlin Wall, effectively hacking the physical barrier that had divided their country for 28 years.",
+      "outcome": "The fall of the Berlin Wall led to the reunification of Germany and marked the beginning of the end for the Soviet Union's influence in Eastern Europe.",
+      "image": "/images/events/berlin-wall.jpg",
+      "quiz": {
+        "question": "What was the main tool used to bring down the Berlin Wall?",
+        "options": [
+          "Sledgehammers and chisels",
+          "Explosives",
+          "Bulldozers",
+          "Cranes"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1961",
+          "event": "Berlin Wall construction begins"
+        },
+        {
+          "date": "1989",
+          "event": "Peaceful protests begin in East Germany"
+        },
+        {
+          "date": "November 9, 1989",
+          "event": "Wall falls as border guards stand down"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Apollo 11 Moon Landing",
+      "hackName": "Lunar Landing Protocol",
+      "year": 1969,
+      "category": "Scientific",
+      "region": "Global",
+      "team": "NASA Apollo Team",
+      "description": "NASA's Apollo 11 mission successfully hacked the Earth's gravity well to land humans on the Moon for the first time, using a combination of rocket science, computer programming, and human ingenuity.",
+      "outcome": "The successful moon landing proved that space travel was possible and opened the door for future space exploration.",
+      "image": "/images/events/moon-landing.jpg",
+      "quiz": {
+        "question": "What was the name of the first module to land on the Moon?",
+        "options": [
+          "Columbia",
+          "Eagle",
+          "Apollo",
+          "Saturn"
+        ],
+        "correctAnswer": 1
+      },
+      "timeline": [
+        {
+          "date": "1961",
+          "event": "President Kennedy announces moon mission"
+        },
+        {
+          "date": "1969",
+          "event": "Apollo 11 launches"
+        },
+        {
+          "date": "July 20, 1969",
+          "event": "First human steps on the Moon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gutenberg's Printing Press",
+      "hackName": "The Information Distribution Protocol",
+      "year": 1440,
+      "category": "Technological",
+      "region": "Europe",
+      "team": "The Gutenberg Collective",
+      "description": "Johannes Gutenberg's invention of the movable-type printing press hacked the information distribution system of medieval Europe, making books and knowledge accessible to the masses.",
+      "outcome": "The printing press revolutionized education, communication, and the spread of ideas, leading to the Renaissance and the Scientific Revolution.",
+      "image": "/images/events/printing-press.jpg",
+      "quiz": {
+        "question": "What was the first major work printed using Gutenberg's press?",
+        "options": [
+          "The Bible",
+          "The Divine Comedy",
+          "The Canterbury Tales",
+          "The Prince"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1440",
+          "event": "Printing press invention"
+        },
+        {
+          "date": "1455",
+          "event": "Gutenberg Bible printed"
+        },
+        {
+          "date": "1500",
+          "event": "Printing presses spread across Europe"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Breaking the Enigma Code",
+      "hackName": "The Enigma Decryption Protocol",
+      "year": 1941,
+      "category": "Military",
+      "region": "Europe",
+      "team": "Bletchley Park Hackers",
+      "description": "Allied codebreakers, led by Alan Turing, successfully hacked the German Enigma machine's encryption system, giving them access to crucial military intelligence during World War II.",
+      "outcome": "The breaking of the Enigma code significantly shortened World War II and laid the groundwork for modern computer science and cryptography.",
+      "image": "/images/events/enigma.jpg",
+      "quiz": {
+        "question": "Who is considered the father of modern computer science for his work on breaking the Enigma code?",
+        "options": [
+          "Alan Turing",
+          "John von Neumann",
+          "Claude Shannon",
+          "Grace Hopper"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1939",
+          "event": "Bletchley Park codebreaking begins"
+        },
+        {
+          "date": "1941",
+          "event": "Enigma code broken"
+        },
+        {
+          "date": "1945",
+          "event": "War ends with Allied victory"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Industrial Revolution",
+      "hackName": "The Production System Override",
+      "year": 1760,
+      "category": "Technological",
+      "region": "Europe",
+      "team": "The Industrial Pioneers",
+      "description": "The Industrial Revolution hacked the traditional manufacturing system by introducing mechanized production, steam power, and factory systems, revolutionizing how goods were produced.",
+      "outcome": "Transformed society from agrarian to industrial, leading to unprecedented economic growth and technological advancement.",
+      "image": "/images/events/industrial-revolution.jpg",
+      "quiz": {
+        "question": "What was the primary power source that drove the Industrial Revolution?",
+        "options": [
+          "Steam Power",
+          "Electricity",
+          "Water Power",
+          "Wind Power"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1760",
+          "event": "Industrial Revolution begins in Britain"
+        },
+        {
+          "date": "1784",
+          "event": "Steam engine perfected"
+        },
+        {
+          "date": "1850",
+          "event": "Mass production becomes widespread"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Internet Creation",
+      "hackName": "The Global Network Protocol",
+      "year": 1969,
+      "category": "Technological",
+      "region": "Global",
+      "team": "ARPANET Pioneers",
+      "description": "The creation of ARPANET, the precursor to the Internet, hacked global communication by establishing a decentralized network that could survive nuclear attacks and connect computers worldwide.",
+      "outcome": "Led to the development of the modern Internet, transforming global communication, commerce, and information sharing.",
+      "image": "/images/events/internet.jpg",
+      "quiz": {
+        "question": "What was the first message sent over ARPANET?",
+        "options": [
+          "LOGIN",
+          "HELLO",
+          "TEST",
+          "START"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1969",
+          "event": "First ARPANET node established"
+        },
+        {
+          "date": "1971",
+          "event": "First email sent"
+        },
+        {
+          "date": "1983",
+          "event": "TCP/IP protocol adopted"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Railroad Revolution",
+      "hackName": "The Transportation Network Protocol",
+      "year": 1825,
+      "category": "Technological",
+      "region": "Global",
+      "team": "The Railway Engineers",
+      "description": "The invention and implementation of steam-powered railroads hacked the transportation system, dramatically reducing travel time and costs while connecting previously isolated regions.",
+      "outcome": "Transformed global trade, travel, and communication, leading to economic growth and social change.",
+      "image": "/images/events/railroad.jpg",
+      "quiz": {
+        "question": "What was the first public railway to use steam locomotives?",
+        "options": [
+          "Stockton and Darlington Railway",
+          "Liverpool and Manchester Railway",
+          "Baltimore and Ohio Railroad",
+          "Great Western Railway"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1825",
+          "event": "First public steam railway opens"
+        },
+        {
+          "date": "1830",
+          "event": "First intercity railway begins operation"
+        },
+        {
+          "date": "1869",
+          "event": "First transcontinental railroad completed"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Electricity Revolution",
+      "hackName": "The Power Distribution Protocol",
+      "year": 1882,
+      "category": "Technological",
+      "region": "Global",
+      "team": "The Electrical Pioneers",
+      "description": "The widespread adoption of electricity hacked the power distribution system, replacing gas lighting and steam power with a cleaner, more efficient energy source.",
+      "outcome": "Transformed daily life, industry, and technology, leading to the modern electrical age.",
+      "image": "/images/events/electricity.jpg",
+      "quiz": {
+        "question": "Who is credited with developing the first practical electrical power system?",
+        "options": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "George Westinghouse",
+          "Michael Faraday"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1882",
+          "event": "First commercial power plant opens"
+        },
+        {
+          "date": "1893",
+          "event": "AC power system demonstrated"
+        },
+        {
+          "date": "1900",
+          "event": "Electricity becomes widespread"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Telephone Invention",
+      "hackName": "The Voice Communication Protocol",
+      "year": 1876,
+      "category": "Technological",
+      "region": "Global",
+      "team": "The Communication Pioneers",
+      "description": "Alexander Graham Bell's invention of the telephone hacked the communication system, enabling real-time voice communication over long distances.",
+      "outcome": "Revolutionized personal and business communication, leading to the development of modern telecommunications.",
+      "image": "/images/events/telephone.jpg",
+      "quiz": {
+        "question": "What were the first words spoken over the telephone?",
+        "options": [
+          "Mr. Watson, come here, I want to see you",
+          "Hello, can you hear me?",
+          "Testing, one two three",
+          "The telephone is working"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1876",
+          "event": "Telephone patent granted"
+        },
+        {
+          "date": "1877",
+          "event": "First telephone exchange opens"
+        },
+        {
+          "date": "1915",
+          "event": "First transcontinental call"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Radio Broadcasting",
+      "hackName": "The Wireless Communication Protocol",
+      "year": 1895,
+      "category": "Technological",
+      "region": "Global",
+      "team": "The Wireless Pioneers",
+      "description": "The development of radio technology hacked the communication system by enabling wireless transmission of information over long distances.",
+      "outcome": "Transformed mass communication, entertainment, and information sharing, leading to modern broadcasting.",
+      "image": "/images/events/radio.jpg",
+      "quiz": {
+        "question": "Who is credited with the first successful radio transmission?",
+        "options": [
+          "Guglielmo Marconi",
+          "Nikola Tesla",
+          "Heinrich Hertz",
+          "James Clerk Maxwell"
+        ],
+        "correctAnswer": 0
+      },
+      "timeline": [
+        {
+          "date": "1895",
+          "event": "First radio transmission"
+        },
+        {
+          "date": "1920",
+          "event": "First commercial radio broadcast"
+        },
+        {
+          "date": "1930",
+          "event": "Radio becomes household technology"
+        }
+      ]
+    }
+  ]
+} 
